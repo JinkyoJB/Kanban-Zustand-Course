@@ -25,5 +25,9 @@
     "jsdom": "^21.1.1",
     "vite": "^4.0.0",
     "vitest": "^0.29.2"
-  }
+  },
+  "description": "This is the source code for this React-Zustand Course: https://www.youtube.com/watch?v=fZPgBnL2x-Q",
+  "main": "setupTests.js",
+  "author": "",
+  "license": "ISC"
 }
